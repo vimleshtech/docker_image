@@ -1,4 +1,4 @@
 Flask
 Redis
 pandas
-numpy
+sklean
